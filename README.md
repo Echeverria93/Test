@@ -51,5 +51,5 @@ Recursos GCP
 - [**Storage**](http://www.google.com)
 - [**Memory Store Redis**](http://www.google.com)
 
+
 <p align="center"> <img alt="Terraform" src="https://www.zentagroup.com/images/logotipos/logotipo-zenta-c.svg"
- width="200px" high="200xp" align="middle"></p>
