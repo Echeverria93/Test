@@ -14,7 +14,7 @@ Descargar el paquete adecuado para su sistema operativo y arquitectura.
 Instalación  
 =============
  
- - **Linux**: Descomprimir el archivo terraform y mover la carpeta a la ruta /usr/local/bin/
+ - **Linux** : Descomprimir el archivo terraform y mover la carpeta a la ruta /usr/local/bin/
 
 Para verificar si la instalación fue correcta ejecutar el comando:
 
@@ -23,6 +23,20 @@ Para verificar si la instalación fue correcta ejecutar el comando:
 
 Comandos básicos  
 =============
+
+ 
+
+
+
+
+
+
+
+
+<center>
+<img alt="Terraform" src="https://www.zentagroup.com/images/logotipos/logotipo-zenta-c.svg"
+ width="400px" high="200xp"> 
+</center>
  
  
 
