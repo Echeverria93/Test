@@ -17,7 +17,7 @@ Instalación
  - **Linux**: Descomprimir el archivo terraform y mover la carpeta a la ruta /usr/local/bin/
 
 
- Para verificar si la instalacion fue correcta ejectur el comando:
+ Para verificar si la instalación fue correcta ejecutar el comando:
 
  - terraform -v 
 
