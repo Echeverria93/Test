@@ -24,16 +24,17 @@ Para verificar si la instalación fue correcta ejecutar el comando:
 Comandos básicos  
 =============
 
- 
 - **terraform init** : El comando terraform init se utiliza para inicializar una configuración de Terraform. Este es el primer comando que se debe ejecutar para cualquier configuración de Terraform.
+
+- **terraform plan** : El siguiente comando es utilizado para deshacer la infraestructura creada con terraform.
+
+- **terraform apply** : El comando terraform plan se utiliza para crear un plan de ejecución. 
 
 - **terraform destroy** : El siguiente comando es utilizado para deshacer la infraestructura creada con terraform.
 
-- **terrafrom validate** : Este comando permite validar la sintaxis de los archivos .tf
+- **terrafrom validate** : Este comando permite validar la sintaxis de los archivos con formato .tf
 
 - **terraform graph** : El comando permite generar una imagen en formato png con la representación grafica de la infraestructura .
-
- 
 
 
 
@@ -44,10 +45,3 @@ Comandos básicos
 
 <center> <img alt="Terraform" src="https://www.zentagroup.com/images/logotipos/logotipo-zenta-c.svg"
  width="400px" high="200xp" align="middle"> </center>
- 
- 
-
-```
-
- 
-
