@@ -33,10 +33,8 @@ Comandos básicos
 
 
 
-<center>
 <img alt="Terraform" src="https://www.zentagroup.com/images/logotipos/logotipo-zenta-c.svg"
- width="400px" high="200xp"> 
-</center>
+ width="400px" high="200xp" align="middle"> 
  
  
 
