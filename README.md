@@ -36,7 +36,23 @@ Comandos básicos
 
 - **terraform graph** : El comando permite generar una imagen en formato png con la representación grafica de la infraestructura .
 
+Recursos GCP  
+=============
 
+- **Cluster**
+- **Instancias de VM**
+- **LoadBalancer HTTPS**
+- **PostgresQL**
+- **Cloud SQL MYSQL 1 Generacion**
+- **Cloud SQL MYSQL 2 Generacion**
+- **Pubsub**
+- **Storage**
+- **Memory Store Redis**
+
+
+
+<center> <img alt="Terraform" src="https://www.zentagroup.com/images/logotipos/logotipo-zenta-c.svg"
+ width="400px" high="200xp" align="middle"> </center>
 
 
 
