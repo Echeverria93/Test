@@ -36,7 +36,7 @@ Comandos básicos
 - **terraform graph** : El comando permite generar una imagen en formato png con la representación grafica de la infraestructura .
 
  <img alt="Terraform" src="https://www.paradigmadigital.com/wp-content/uploads/2015/03/CloudPlatform_HorizontalLockup.png"
- width="500px" high="200xp">
+ width="500px" high="300xp">
 
 Recursos GCP  
 =============
