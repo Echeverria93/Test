@@ -45,8 +45,8 @@ Recursos GCP
 - **Instancias de VM**
 - **LoadBalancer HTTPS**
 - **PostgresQL**
-- **Cloud SQL MYSQL 1 Generacion**
-- **Cloud SQL MYSQL 2 Generacion**
+- **Cloud SQL MYSQL 1 Generación**
+- **Cloud SQL MYSQL 2 Generación**
 - **Pubsub**
 - **Storage**
 - **Memory Store Redis**
