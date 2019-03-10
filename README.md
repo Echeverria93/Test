@@ -36,7 +36,7 @@ Comandos básicos
 - **terraform graph** : El comando permite generar una imagen en formato png con la representación grafica de la infraestructura .
 
  <img alt="Terraform" src="https://www.paradigmadigital.com/wp-content/uploads/2015/03/CloudPlatform_HorizontalLockup.png"
- width="500px" high="300xp">
+ width="500px" high="200xp">
 
 Recursos GCP  
 =============
@@ -53,5 +53,5 @@ Recursos GCP
 
 
 
-<center> <img alt="Terraform" src="https://www.zentagroup.com/images/logotipos/logotipo-zenta-c.svg"
- width="200px" high="200xp" align="middle"> </center>
+<div style="text-align:center"><img alt="Terraform" src="https://www.zentagroup.com/images/logotipos/logotipo-zenta-c.svg"
+ width="200px" high="200xp" align="middle"></div>
