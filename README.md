@@ -4,14 +4,14 @@
  width="400px" high="200xp">
 
 
-Pre-requisitos 📋
+Pre-requisitos 
 =============
 
 Descargue el paquete adecuado para su sistema operativo y arquitectura.
 
 - Website: https://www.terraform.io
 
-Instalación  🔧
+Instalación  
 =============
 
  
