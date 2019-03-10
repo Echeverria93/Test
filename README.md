@@ -14,7 +14,12 @@ Descargue el paquete adecuado para su sistema operativo y arquitectura.
 Instalación  
 =============
  
- - **Linux**: Descomprimir archivo terraform y mover la carpeta a la ruta /usr/local/bin
+ - **Linux**: Descomprimir el archivo terraform y mover la carpeta a la ruta /usr/local/bin/
+
+
+ Para verificar si la instalacion fue correcta ejectur el comando:
+
+ - terraform -v 
 
  
  
