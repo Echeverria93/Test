@@ -14,6 +14,7 @@ Pre-requisitos 📋
 =============
 
 Descargar terraform de la página oficial 
+
 Descargue el paquete adecuado para su sistema operativo y arquitectura.
 
 - Website: https://www.terraform.io
