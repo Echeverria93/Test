@@ -49,5 +49,5 @@ iniciar Terraform
 <img alt="Terraform" src="https://www.zentagroup.com/images/logotipos/logotipo-zenta-c.svg"
  width="200px" high="200xp" align="middle">
 
-<p align="center"> <img alt="Terraform" src="test.png"
+<p align="center"> <img alt="Terraform" src="https://github.com/Echeverria93/Test/blob/master/test.png"
  width="200px" high="200xp" align="middle"></p>
