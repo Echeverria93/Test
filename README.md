@@ -7,7 +7,7 @@
 Pre-requisitos 
 =============
 
-Descargue el paquete adecuado para su sistema operativo y arquitectura.
+Descargar el paquete adecuado para su sistema operativo y arquitectura.
 
 - Website: https://www.terraform.io
 
@@ -16,11 +16,13 @@ Instalación
  
  - **Linux**: Descomprimir el archivo terraform y mover la carpeta a la ruta /usr/local/bin/
 
-
- Para verificar si la instalación fue correcta ejecutar el comando:
+Para verificar si la instalación fue correcta ejecutar el comando:
 
  - terraform -v 
 
+
+Comandos básicos  
+=============
  
  
 
