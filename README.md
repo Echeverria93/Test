@@ -41,18 +41,15 @@ Comandos básicos
 Recursos GCP  
 =============
 
-- [**Cluster**](http://en.wikipedia.org/wiki/Acceptance_testing)
-- **Instancias de VM**
-- **LoadBalancer HTTPS**
-- **PostgresQL**
-- **Cloud SQL MYSQL 1 Generación**
-- **Cloud SQL MYSQL 2 Generación**
-- **Pubsub**
-- **Storage**
-- **Memory Store Redis**
-
-[acceptance
-test](http://en.wikipedia.org/wiki/Acceptance_testing)
+- [**Cluster**](http://www.google.com)
+- [**Instancias de VM**]
+- [**LoadBalancer HTTPS**]
+- [**PostgresQL**]
+- [**Cloud SQL MYSQL 1 Generación**]
+- [**Cloud SQL MYSQL 2 Generación**]
+- [**Pubsub**]
+- [**Storage**]
+- [**Memory Store Redis**]
 
 <p align="center"> <img alt="Terraform" src="https://www.zentagroup.com/images/logotipos/logotipo-zenta-c.svg"
  width="200px" high="200xp" align="middle"></p>
