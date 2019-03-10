@@ -53,3 +53,4 @@ Recursos GCP
 
 
 <p align="center"> <img alt="Terraform" src="https://www.zentagroup.com/images/logotipos/logotipo-zenta-c.svg"
+ width="200px" high="200xp" align="middle"></p>
