@@ -38,5 +38,16 @@ Comandos básicos
 - **terraform graph** : El comando permite generar una imagen en formato png con la representación grafica de la infraestructura.
 
 
-<p align="center"> <img alt="Terraform" src="https://www.zentagroup.com/images/logotipos/logotipo-zenta-c.svg"
+
+iniciar Terraform   
+=================
+
+1. Crear  carpeta que contendra los archivos terraform para su ejecucion.
+2. Crear los archivos principales llamados resource-provider.tf, resource-environment.tf y terraform.tfvars.
+3. Ejecutar el comando terraform init para detectar el tipo de proveedor ingresado en el archivo resource-provider.tf y descargar  las dependencias del proveedor.
+ 
+<img alt="Terraform" src="https://www.zentagroup.com/images/logotipos/logotipo-zenta-c.svg"
+ width="200px" high="200xp" align="middle">
+
+<p align="center"> <img alt="Terraform" src="test.png"
  width="200px" high="200xp" align="middle"></p>
