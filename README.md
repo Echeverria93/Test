@@ -41,7 +41,7 @@ Comandos básicos
 Recursos GCP  
 =============
 
-- **Cluster**
+- - **Cluster**(http://en.wikipedia.org/wiki/Acceptance_testing)
 - **Instancias de VM**
 - **LoadBalancer HTTPS**
 - **PostgresQL**
