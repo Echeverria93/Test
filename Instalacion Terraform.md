@@ -1,5 +1,5 @@
 
-<img alt="Terraform" src="https://cdn.rawgit.com/hashicorp/terraform-website/master/content/source/assets/images/logo-hashicorp.svg"
+<img alt="Terraform" src="https://github.com/Echeverria93/Imagenes/blob/master/logo-hashicorp.svg"
  width="400px" high="200xp"> 
 
 Pre-requisitos 
@@ -46,8 +46,10 @@ iniciar Terraform
 2. Crear los archivos principales llamados resource-provider.tf, resource-environment.tf y terraform.tfvars.
 3. Ejecutar el comando terraform init para detectar el tipo de proveedor ingresado en el archivo resource-provider.tf y descargar  las dependencias del proveedor.
  
-<img alt="Terraform" src="https://www.zentagroup.com/images/logotipos/logotipo-zenta-c.svg"
+<img alt="Terraform" src="https://github.com/Echeverria93/Imagenes/blob/master/test.png"
  width="200px" high="200xp" align="middle">
 
-<p align="center"> <img alt="Terraform" src="https://github.com/Echeverria93/Test/blob/master/test.png"
+<p align="center"><img alt="Terraform" src="https://github.com/Echeverria93/Imagenes/blob/master/logotipo-zenta-c.svg"
  width="200px" high="200xp" align="middle"></p>
+
+
