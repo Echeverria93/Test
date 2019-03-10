@@ -70,3 +70,18 @@ Ejemplos Recursos GCP
 
 <p align="center"> <img alt="Terraform" src="https://www.zentagroup.com/images/logotipos/logotipo-zenta-c.svg"
  width="200px" high="200xp" align="middle"></p>
+ 
+ 
+ 
+ <table>
+   <tr>
+       <td>Carmen</td>
+       <td>33 years old</td>
+       <td>Spain</td>
+   </tr>
+   <tr>
+       <td>Michelle</td>
+       <td>26 years old</td>
+       <td>United States</td>
+   </tr>
+</table>
