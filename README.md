@@ -13,7 +13,7 @@ Archivos iniciales de  terraform
 Ejemplo  
 ==============
 
-- [**Terraform Base**](http://www.google.com)
+- [**Terraform Reseta Base**](http://www.google.com)
 
 <img alt="Terraform" src="https://www.paradigmadigital.com/wp-content/uploads/2015/03/CloudPlatform_HorizontalLockup.png"
  width="500px" high="200xp">
