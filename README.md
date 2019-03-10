@@ -33,7 +33,7 @@ Comandos básicos
 
 - **terrafrom validate** : Este comando permite validar la sintaxis de los archivos con formato .tf
 
-- **terraform show** : El comando permite vizualizar el estado actual de la infraestructura a traves del archivo terraform.tfstate.
+- **terraform show** : El comando permite visualizar el estado actual de la infraestructura a través del archivo terraform.tfstate.
 
 - **terraform graph** : El comando permite generar una imagen en formato png con la representación grafica de la infraestructura.
 
