@@ -12,6 +12,7 @@ Archivos iniciales de  terraform
 
 <img alt="Terraform" src="https://www.paradigmadigital.com/wp-content/uploads/2015/03/CloudPlatform_HorizontalLockup.png"
  width="500px" high="200xp">
+
 Recursos GCP  
 =============
 
