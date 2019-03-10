@@ -25,6 +25,15 @@ Comandos básicos
 =============
 
  
+- **terraform init** : El comando terraform init se utiliza para inicializar una configuración de Terraform. Este es el primer comando que se debe ejecutar para cualquier configuración de Terraform.
+
+- **terraform destroy** : El siguiente comando es utilizado para deshacer la infraestructura creada con terraform.
+
+- **terrafrom validate** : Este comando permite validar la sintaxis de los archivos .tf
+
+- **terraform graph** : El comando permite generar una imagen en formato png con la representación grafica de la infraestructura .
+
+ 
 
 
 
