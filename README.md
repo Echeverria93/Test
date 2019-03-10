@@ -13,6 +13,8 @@ Descargue el paquete adecuado para su sistema operativo y arquitectura.
 
 Instalación  
 =============
+ 
+ - **Linux**: Infrastructure is described using a high-level configuration syntax. This allows a blueprint of your datacenter to be versioned and treated as you would any other code. Additionally, infrastructure can be shared and re-used.
 
  
  
