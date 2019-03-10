@@ -51,7 +51,8 @@ Recursos GCP
 - **Storage**
 - **Memory Store Redis**
 
-
+[acceptance
+test](http://en.wikipedia.org/wiki/Acceptance_testing)
 
 <p align="center"> <img alt="Terraform" src="https://www.zentagroup.com/images/logotipos/logotipo-zenta-c.svg"
  width="200px" high="200xp" align="middle"></p>
