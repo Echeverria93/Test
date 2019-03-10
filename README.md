@@ -1,10 +1,5 @@
-
 <img alt="Terraform" src="https://cdn.rawgit.com/hashicorp/terraform-website/master/content/source/assets/images/logo-hashicorp.svg"
  width="400px" high="200xp"> 
-
-<img alt="Terraform" src="https://www.paradigmadigital.com/wp-content/uploads/2015/03/CloudPlatform_HorizontalLockup.png"
- width="500px" high="200xp">
-
 
 Archivos iniciales de  terraform 
 ================================
@@ -15,7 +10,9 @@ Archivos iniciales de  terraform
 
 - terraform.tfvars: Este tipo de archivos es utilizado para manejar información delicada dentro de la infraestructura, credencial de conexión, usuarios, contraseñas y claves ssh.  
 
-
+<img alt="Terraform" src="https://www.paradigmadigital.com/wp-content/uploads/2015/03/CloudPlatform_HorizontalLockup.png"
+ width="500px" high="200xp">
+ 
 Recursos GCP  
 =============
 
